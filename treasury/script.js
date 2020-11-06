@@ -212,6 +212,13 @@ function myTimer() {
 				textColor = "orange";	
 
 			}
+			
+			
+			
+		else if(k === 15 && l == 50)	
+			{	
+				textColor = "orange";	
+			}
 
 
 		else
