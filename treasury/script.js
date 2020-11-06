@@ -193,7 +193,7 @@ function myTimer() {
 
 	orange();
 	
-	//For the case whan the colours of both the Background and the Text coinside
+	//For the case when the colours of both the Background and the Text coincide
 
 
 	function orange()
