@@ -191,24 +191,24 @@ function myTimer() {
 	var textColor = '#' + r1y + r2y + s1y + s2y + t1y + t2y;
 
 
-/*	orange();
+	orange();
 	
 	
 	//For the case when the colours of both the Background and the Text coincide
 
-//	function orange()
-//		{
-//		if((k === 11 || k == 12) && (l > 26 && l < 33 && m > 19 && m < 41))
-//			{	
-//				textColor = "orange";	
-//			}
-//
-//		else
-//			{
-//				textColor = '#' + r1y + r2y + s1y + s2y + t1y + t2y;
-//			}
-//		}
-*/
+	function orange()
+		{
+		if((k === 11 || k == 12) && (l > 26 && l < 33 && m > 19 && m < 41))
+			{	
+				textColor = "orange";	
+			}
+
+		else
+			{
+				textColor = '#' + r1y + r2y + s1y + s2y + t1y + t2y;
+			}
+		}
+
 	
 
 //Express Time and Text Colour in numbers and letters on the page 
