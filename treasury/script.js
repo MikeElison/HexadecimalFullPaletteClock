@@ -191,7 +191,7 @@ function myTimer() {
 	var textColor = '#' + r1y + r2y + s1y + s2y + t1y + t2y;
 
 
-//	orange();
+/*	orange();
 	
 	
 	//For the case when the colours of both the Background and the Text coincide
@@ -208,7 +208,7 @@ function myTimer() {
 //				textColor = '#' + r1y + r2y + s1y + s2y + t1y + t2y;
 //			}
 //		}
-
+*/
 	
 
 //Express Time and Text Colour in numbers and letters on the page 
